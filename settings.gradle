@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "SaveInstanceState_6.1.2"
